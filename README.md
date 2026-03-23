@@ -1,6 +1,6 @@
 # User Management REST API
 
-A resume-ready backend project built using Node.js, Express, and PostgreSQL.
+A backend project built using Node.js, Express, and PostgreSQL.
 
 ## Features
 - JWT Authentication
@@ -32,6 +32,3 @@ A resume-ready backend project built using Node.js, Express, and PostgreSQL.
 POST /api/auth/register  
 POST /api/auth/login  
 GET  /api/auth/profile (Protected)
-
-## Resume Line
-Built a secure User Management REST API using Node.js, Express, and PostgreSQL with JWT authentication, password hashing, and MVC architecture.
